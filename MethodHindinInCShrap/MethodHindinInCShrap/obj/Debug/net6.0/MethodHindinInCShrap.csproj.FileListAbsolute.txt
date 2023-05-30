@@ -1,0 +1,15 @@
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\bin\Debug\net6.0\MethodHindinInCShrap.exe
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\bin\Debug\net6.0\MethodHindinInCShrap.deps.json
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\bin\Debug\net6.0\MethodHindinInCShrap.runtimeconfig.json
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\bin\Debug\net6.0\MethodHindinInCShrap.dll
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\bin\Debug\net6.0\MethodHindinInCShrap.pdb
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.csproj.AssemblyReference.cache
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.GeneratedMSBuildEditorConfig.editorconfig
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.AssemblyInfoInputs.cache
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.AssemblyInfo.cs
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.dll
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\refint\MethodHindinInCShrap.dll
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.pdb
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\MethodHindinInCShrap.genruntimeconfig.cache
+G:\C_Sharp_Dot_Net_Learning\MethodHindinInCShrap\MethodHindinInCShrap\obj\Debug\net6.0\ref\MethodHindinInCShrap.dll
