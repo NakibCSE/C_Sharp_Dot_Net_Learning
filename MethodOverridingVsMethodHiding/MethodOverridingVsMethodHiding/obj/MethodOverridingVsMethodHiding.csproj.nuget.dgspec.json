@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C_Sharp_Dot_Net_Learning\\Polymorphism\\Polymorphism\\Polymorphism.csproj": {}
+    "F:\\C_Sharp_Dot_Net_Learning\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding.csproj": {}
   },
   "projects": {
-    "F:\\C_Sharp_Dot_Net_Learning\\Polymorphism\\Polymorphism\\Polymorphism.csproj": {
+    "F:\\C_Sharp_Dot_Net_Learning\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C_Sharp_Dot_Net_Learning\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
-        "projectName": "Polymorphism",
-        "projectPath": "F:\\C_Sharp_Dot_Net_Learning\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+        "projectUniqueName": "F:\\C_Sharp_Dot_Net_Learning\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding.csproj",
+        "projectName": "MethodOverridingVsMethodHiding",
+        "projectPath": "F:\\C_Sharp_Dot_Net_Learning\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding.csproj",
         "packagesPath": "C:\\Users\\nakki\\.nuget\\packages\\",
-        "outputPath": "F:\\C_Sharp_Dot_Net_Learning\\Polymorphism\\Polymorphism\\obj\\",
+        "outputPath": "F:\\C_Sharp_Dot_Net_Learning\\MethodOverridingVsMethodHiding\\MethodOverridingVsMethodHiding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nakki\\AppData\\Roaming\\NuGet\\NuGet.Config",
